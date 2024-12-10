@@ -1,3 +1,5 @@
 # python frameworks load-testing
 
-![chart1.png](charts/chart1.png)
+## Simple request and response
+
+![req-res.png](charts/req-res.png)
